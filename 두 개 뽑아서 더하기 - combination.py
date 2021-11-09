@@ -24,7 +24,7 @@ def solution(numbers):
     return answer_list
 
 ### permutations - 순열(순서O, 중복X)
-#   permutations(iterable, n) - 반복가능한 객체 안에서 원소 개수가 n개인 순열
+#   permutations(iterable, n) - 반복가능한 객체 안에서 원소 개수가 n개인 순열 
 #   ex) permutations(list, 3),  permutations(range(1,11), 2)
 
 ### combinations - 조합(순서X, 중복X)
