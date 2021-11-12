@@ -36,6 +36,6 @@ def solution(answers):
 
     for i in range(3):
         if cnt[i] == max(cnt):
-            winner.append(i + 1)
+            winner.append(i + 1) 
 
     return winner
